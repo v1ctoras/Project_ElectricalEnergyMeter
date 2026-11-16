@@ -4,5 +4,7 @@ Built &amp; accomplished a capable prototype that measures all consumption compo
 
 
 <p align = "center">
-  <img src="Images/test_experimental.PNG" width = "400" alt = "Proof of test experimental">
+  <img src="Images/test_experimental.PNG" width = "300">
+  <br>
+  <em> Proof of experimental test
 </p>
